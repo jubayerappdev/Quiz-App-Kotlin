@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="Question">What is the name of your ex GF?</string>
+    <string name="op1">Rokeya</string>
+</resources>
